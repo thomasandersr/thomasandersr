@@ -1,18 +1,19 @@
-### Hi there 👋
-
 ![](https://komarev.com/ghpvc/?username=thomasandersr)
 
+<h1 align="center">Hi, I'm Thomas 👋</h1>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,kotlin,postgres,coding=cute" />
+  </a>
+</p>
+
 <!--
-**thomasandersr/thomasandersr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<details>
+  <summary>Coding Stats</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  ![langs](https://wakatime.com/share/)
+</details>
+
 -->
