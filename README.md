@@ -8,5 +8,6 @@
 </p>
 <details>
   <summary>Coding Stats</summary>
+  
   ![langs](https://wakatime.com/share/@018dcd33-b0c3-4552-838a-c9e9416e2926/fe97d984-4b06-4678-aa4a-d12048a7a191.svg)
 </details>
