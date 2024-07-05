@@ -1,5 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=thomasandersr)
 <h1 align="center">Hi, I'm Thomas 👋</h1>
+<p align="center">I'm a 22 year old CS student from Norway.</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,c,kotlin,swift,postgres,androidstudio,windows,apple,linux,coding=cute" />
