@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Thomas 👋</h1>
 
-<p align="center">I'm a 22 CS student from Norway.</p>
+<p align="center">I'm a 22 year old CS student from Norway.</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
