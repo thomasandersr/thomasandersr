@@ -3,7 +3,7 @@
 <p align="center">I'm a 22 year old computer science student from Norway.</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,kotlin,postgres,androidstudio,windows,apple,linux,coding=cute" />
+    <img src="https://skillicons.dev/icons?i=py,java,kotlin,c,postgres,androidstudio,windows,apple,linux,coding=cute" />
   </a>
 </p>
 <details>
